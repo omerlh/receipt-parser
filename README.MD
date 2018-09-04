@@ -1,6 +1,6 @@
 # Groceries Receipt Parser
 This project started in order to answer a simple question - where is my money going to? 
-A lot of my money is going to the grocery store, but this is like a huge block hole. 
+A lot of my money is going to the grocery store, but this is like a huge black hole. 
 I wanted to understand, for example, how much I'm spending on fruits or on cheese.
 This will allows me to understand where I should spend less, and save money.
 Also, if I noticed that on a specific month we spending more on groceries, I want to understand why - for example, new born that needs a lot of baby food or diapers.
